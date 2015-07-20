@@ -1,0 +1,5 @@
+{
+    "require": {
+        "panique/php-login": "dev-develop"
+    }
+}
